@@ -1,3 +1,6 @@
+## 📚 Open to Merge every Pull request
+
+
 ## 📚 How to Contribute
 
 We welcome contributions from everyone! Here’s how you can get involved:
@@ -12,7 +15,7 @@ We welcome contributions from everyone! Here’s how you can get involved:
    ```bash
    git checkout -b <branch-name>
    ```
-4. **Make Your Changes:** Implement your changes or add new features.
+4. **Make Your Changes:** Add programs in any languages.
 5. **Commit and Push:**
    ```bash
    git add .
@@ -21,7 +24,6 @@ We welcome contributions from everyone! Here’s how you can get involved:
    ```
 6. **Submit a Pull Request:** Go to the original repository and create a new pull request from your forked repository.
 
-Please ensure your code follows our [Contribution Guidelines](Contributors.md).
 
 
 ## 👥 Contributors
