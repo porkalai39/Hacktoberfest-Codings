@@ -1,4 +1,4 @@
-#Author: OMKAR PATHAK
+
 #This example illustrates how an array can be implemened using Python
 
 class Array(object):
