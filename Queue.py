@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+
 
 # This program illustrates an example of Queue implementation in Python
 # Stack Operations: enqueue(), dequeue(), isFull(), isEmpty, peek()
